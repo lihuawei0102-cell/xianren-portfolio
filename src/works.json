@@ -1,0 +1,560 @@
+[
+  {
+    "id": "COVER",
+    "category": "个人 IP",
+    "series": "个人 IP",
+    "title": "封面",
+    "src": "/portfolio-v5/ip-000-f69f9411f6d539.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "002",
+    "category": "个人 IP",
+    "series": "个人 IP",
+    "title": "002",
+    "src": "/portfolio-v5/ip-001-a8b8c6bf26039d.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "003",
+    "category": "个人 IP",
+    "series": "个人 IP",
+    "title": "003",
+    "src": "/portfolio-v5/ip-002-c8a7e5abc63709.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "004",
+    "category": "个人 IP",
+    "series": "个人 IP",
+    "title": "004",
+    "src": "/portfolio-v5/ip-003-8f10042cddbb2f.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "005",
+    "category": "个人 IP",
+    "series": "个人 IP",
+    "title": "005",
+    "src": "/portfolio-v5/ip-004-3e929082322be5.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "006",
+    "category": "个人 IP",
+    "series": "个人 IP",
+    "title": "006",
+    "src": "/portfolio-v5/ip-005-b09d3beb995cd7.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "COVER",
+    "category": "东方视觉探索",
+    "series": "节气系列",
+    "title": "封面",
+    "src": "/portfolio-v5/east-season-000-81548de88f9356.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "001",
+    "category": "东方视觉探索",
+    "series": "节气系列",
+    "title": "立秋01",
+    "src": "/portfolio-v5/east-season-001-4216c0d78908fa.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "002",
+    "category": "东方视觉探索",
+    "series": "节气系列",
+    "title": "立秋02",
+    "src": "/portfolio-v5/east-season-002-1d57d6ea09abdb.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "003",
+    "category": "东方视觉探索",
+    "series": "节气系列",
+    "title": "立秋03",
+    "src": "/portfolio-v5/east-season-003-7ad98159151a54.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "004",
+    "category": "东方视觉探索",
+    "series": "节气系列",
+    "title": "立秋04",
+    "src": "/portfolio-v5/east-season-004-1f7f60d85848ce.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "005",
+    "category": "东方视觉探索",
+    "series": "节气系列",
+    "title": "立秋05",
+    "src": "/portfolio-v5/east-season-005-ed8df57bdcd847.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "006",
+    "category": "东方视觉探索",
+    "series": "节气系列",
+    "title": "立秋06",
+    "src": "/portfolio-v5/east-season-006-1e8b933f5a52ea.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "007",
+    "category": "东方视觉探索",
+    "series": "节气系列",
+    "title": "07",
+    "src": "/portfolio-v5/east-season-007-db95ee179124c5.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "008",
+    "category": "东方视觉探索",
+    "series": "节气系列",
+    "title": "立秋08",
+    "src": "/portfolio-v5/east-season-008-ebd25e06111009.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "009",
+    "category": "东方视觉探索",
+    "series": "节气系列",
+    "title": "立秋09",
+    "src": "/portfolio-v5/east-season-009-5eec051c2b57a3.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "011",
+    "category": "东方视觉探索",
+    "series": "节气系列",
+    "title": "立秋11",
+    "src": "/portfolio-v5/east-season-010-03037a8ea6f1b5.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "COVER",
+    "category": "东方视觉探索",
+    "series": "苏州园林",
+    "title": "封面",
+    "src": "/portfolio-v5/east-garden-000-8375f87080307e.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "002",
+    "category": "东方视觉探索",
+    "series": "苏州园林",
+    "title": "002苏州园林",
+    "src": "/portfolio-v5/east-garden-001-0c62848be833f9.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "005",
+    "category": "东方视觉探索",
+    "series": "苏州园林",
+    "title": "005苏州园林",
+    "src": "/portfolio-v5/east-garden-002-2577c67987bf7a.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "006",
+    "category": "东方视觉探索",
+    "series": "苏州园林",
+    "title": "006苏州园林",
+    "src": "/portfolio-v5/east-garden-003-6f7afe6252d113.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "007",
+    "category": "东方视觉探索",
+    "series": "苏州园林",
+    "title": "007苏州园林",
+    "src": "/portfolio-v5/east-garden-004-45af495b51e661.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "008",
+    "category": "东方视觉探索",
+    "series": "苏州园林",
+    "title": "008苏州园林",
+    "src": "/portfolio-v5/east-garden-005-d7b56420d3fad4.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "009",
+    "category": "东方视觉探索",
+    "series": "苏州园林",
+    "title": "009苏州园林",
+    "src": "/portfolio-v5/east-garden-006-c1ada7856c7024.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "011",
+    "category": "东方视觉探索",
+    "series": "苏州园林",
+    "title": "011苏州园林",
+    "src": "/portfolio-v5/east-garden-007-df23cc08ed6c6f.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "013",
+    "category": "东方视觉探索",
+    "series": "苏州园林",
+    "title": "013苏州园林",
+    "src": "/portfolio-v5/east-garden-008-557b5a7e243dc3.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "014",
+    "category": "东方视觉探索",
+    "series": "苏州园林",
+    "title": "014苏州园林",
+    "src": "/portfolio-v5/east-garden-009-c35290710e4946.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "015",
+    "category": "东方视觉探索",
+    "series": "苏州园林",
+    "title": "015苏州园林",
+    "src": "/portfolio-v5/east-garden-006-c1ada7856c7024.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "016",
+    "category": "东方视觉探索",
+    "series": "苏州园林",
+    "title": "016苏州园林",
+    "src": "/portfolio-v5/east-garden-011-5f0e04d1f30bf0.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "017",
+    "category": "东方视觉探索",
+    "series": "苏州园林",
+    "title": "017苏州园林",
+    "src": "/portfolio-v5/east-garden-012-0d86038d5ef358.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "COVER",
+    "category": "东方视觉探索",
+    "series": "城市文化海报",
+    "title": "封面",
+    "src": "/portfolio-v5/east-city-000-c59d6beed17ad2.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "001",
+    "category": "东方视觉探索",
+    "series": "城市文化海报",
+    "title": "001",
+    "src": "/portfolio-v5/east-city-001-79ef4ab94acb73.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "COVER",
+    "category": "东方视觉探索",
+    "series": "产品海报",
+    "title": "封面",
+    "src": "/portfolio-v5/east-product-000-fde3e3ef661576.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "002",
+    "category": "东方视觉探索",
+    "series": "产品海报",
+    "title": "002",
+    "src": "/portfolio-v5/east-product-001-0968dde553f4d0.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "003",
+    "category": "东方视觉探索",
+    "series": "产品海报",
+    "title": "003",
+    "src": "/portfolio-v5/east-product-002-e047199e990f4c.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "004",
+    "category": "东方视觉探索",
+    "series": "产品海报",
+    "title": "004",
+    "src": "/portfolio-v5/east-product-003-912e62809a56f4.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "2026",
+    "category": "东方视觉探索",
+    "series": "产品海报",
+    "title": "jimeng-2026-08-24-4703-2D传统皮影戏风格细长型易拉罐包装设计，柔光马卡龙色调，大块留白构图。罐身上方中...",
+    "src": "/portfolio-v5/east-product-004-542d04f40f7bb6.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "COVER",
+    "category": "叙事",
+    "series": "相遇系列",
+    "title": "封面",
+    "src": "/portfolio-v5/story-meeting-000-92429710585486.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "002",
+    "category": "叙事",
+    "series": "相遇系列",
+    "title": "002",
+    "src": "/portfolio-v5/story-meeting-001-06e570fad4c365.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "003",
+    "category": "叙事",
+    "series": "相遇系列",
+    "title": "003",
+    "src": "/portfolio-v5/story-meeting-002-fd220432fd39de.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "COVER",
+    "category": "叙事",
+    "series": "梦想绘本系列",
+    "title": "封面",
+    "src": "/portfolio-v5/story-dream-000-0869acf9dca58d.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "032",
+    "category": "叙事",
+    "series": "梦想绘本系列",
+    "title": "032",
+    "src": "/portfolio-v5/story-dream-001-69021c4cc499d5.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "033",
+    "category": "叙事",
+    "series": "梦想绘本系列",
+    "title": "033",
+    "src": "/portfolio-v5/story-dream-002-581f0e647634d4.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "034",
+    "category": "叙事",
+    "series": "梦想绘本系列",
+    "title": "034",
+    "src": "/portfolio-v5/story-dream-003-af33e9884ab7dc.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "035",
+    "category": "叙事",
+    "series": "梦想绘本系列",
+    "title": "035",
+    "src": "/portfolio-v5/story-dream-004-00e068dde8c164.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "036",
+    "category": "叙事",
+    "series": "梦想绘本系列",
+    "title": "036",
+    "src": "/portfolio-v5/story-dream-005-cc1a091c063556.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "037",
+    "category": "叙事",
+    "series": "梦想绘本系列",
+    "title": "037",
+    "src": "/portfolio-v5/story-dream-006-a5ff2bdbb973af.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "038",
+    "category": "叙事",
+    "series": "梦想绘本系列",
+    "title": "038",
+    "src": "/portfolio-v5/story-dream-007-bbbb368225aef7.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "039",
+    "category": "叙事",
+    "series": "梦想绘本系列",
+    "title": "039",
+    "src": "/portfolio-v5/story-dream-008-42052a368fd555.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "040",
+    "category": "叙事",
+    "series": "梦想绘本系列",
+    "title": "040",
+    "src": "/portfolio-v5/story-dream-009-29d23ec8dbfcdd.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "042",
+    "category": "叙事",
+    "series": "梦想绘本系列",
+    "title": "042",
+    "src": "/portfolio-v5/story-dream-010-385320231e8c29.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "043",
+    "category": "叙事",
+    "series": "梦想绘本系列",
+    "title": "043",
+    "src": "/portfolio-v5/story-dream-011-2ea6badb4ac51b.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "COVER",
+    "category": "叙事",
+    "series": "盛夏故事系列",
+    "title": "封面",
+    "src": "/portfolio-v5/story-summer-000-5d4dfce4601e13.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "001",
+    "category": "叙事",
+    "series": "盛夏故事系列",
+    "title": "001",
+    "src": "/portfolio-v5/story-summer-001-45d53795b7b354.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "003",
+    "category": "叙事",
+    "series": "盛夏故事系列",
+    "title": "003",
+    "src": "/portfolio-v5/story-summer-002-114f5b55c2b1b7.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "001",
+    "category": "动态",
+    "series": "个人一周生活视频",
+    "title": "001",
+    "src": "/portfolio-v5/motion-life-001-00deede5f626.mp4",
+    "type": "video",
+    "poster": "/portfolio-v5/motion-life-poster-877030b46ef8b9.webp"
+  },
+  {
+    "id": "001",
+    "category": "动态",
+    "series": "悟空冰茶视频",
+    "title": "001",
+    "src": "/portfolio-v5/motion-tea-001-fd706010be35.mp4",
+    "type": "video",
+    "poster": "/portfolio-v5/motion-tea-poster-c02933a035390e.webp"
+  },
+  {
+    "id": "COVER",
+    "category": "其他",
+    "series": "其他",
+    "title": "封面",
+    "src": "/portfolio-v5/other-000-45f9e690ff841a.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "001",
+    "category": "其他",
+    "series": "其他",
+    "title": "001",
+    "src": "/portfolio-v5/other-001-386fc695f119db.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "002",
+    "category": "其他",
+    "series": "其他",
+    "title": "002",
+    "src": "/portfolio-v5/other-002-837eef4a5b0b1e.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "003",
+    "category": "其他",
+    "series": "其他",
+    "title": "003",
+    "src": "/portfolio-v5/other-003-e93f33a69035a7.webp",
+    "type": "image",
+    "poster": null
+  },
+  {
+    "id": "004",
+    "category": "其他",
+    "series": "其他",
+    "title": "004",
+    "src": "/portfolio-v5/other-004-e685a632d97cbd.webp",
+    "type": "image",
+    "poster": null
+  }
+]
