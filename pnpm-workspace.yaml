@@ -1,2 +1,2 @@
-allowBuilds:
-  ffmpeg-static: set this to true or false
+packages:
+  - '.'
